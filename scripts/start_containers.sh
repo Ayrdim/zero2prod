@@ -1,0 +1,1 @@
+docker start crazy_gagarin inspiring_hawking
